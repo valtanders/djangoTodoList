@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/valtanders/proyectos/djangoProyect/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
