@@ -1,4 +1,5 @@
-.vscode
+.vscode/
 run
 startEnv
-__pycache__/manage.cpython-39.pyc
+__pycache__/
+todo_list/__pycache__/
