@@ -1,3 +1,4 @@
 .vscode
 run
 startEnv
+__pycache__/manage.cpython-39.pyc
