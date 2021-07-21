@@ -13,7 +13,7 @@ def home(request):
     return render(request, 'home.html', {'items': items})
 
 def about(request):
-    my_first_name = "Bruno"
+    my_first_name = "Bruno Antonio"
     my_last_name = "Bollati"
     context = {'first_name': my_first_name,'last_name':my_last_name}
     return render(request, 'about.html', context)
